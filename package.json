@@ -1,9 +1,0 @@
-{
-  "name": "closet-thayelu",
-  "version": "1.0.0",
-  "description": "Site de Fidelidade - Closet Thay & Lú",
-  "scripts": {
-    "dev": "npx http-server",
-    "build": "echo 'Build complete'"
-  }
-}
